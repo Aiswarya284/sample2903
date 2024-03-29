@@ -1,0 +1,10 @@
+
+1. To delete washing log , alarm history and graphs Press GREEN logo for 5 seconds on their respective pages
+2. To edit time and date settings Press top right corner in Menu settings page
+3. To display IO status press top right bottom in Menu settings page
+4. To load the default values for factory settings , service settings and sensor calibration press load default button for 2 seconds in factory settings page 1
+5. To reset all values in recipe page press reset button for 2 seconds 
+6. Recipe no. can be changed only in STOP condition
+7. Service 456	Factory 789 	User 123
+ gui branch revision expression
+ changes in washer cloud
